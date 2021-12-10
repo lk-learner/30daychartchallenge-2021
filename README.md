@@ -17,7 +17,7 @@ Topics
 
 
 
-###Comparisons:
+### Comparisons:
 
 Day 1: Part-to-Whole
 
@@ -31,7 +31,7 @@ Day 5: Slope
 
 Day 6: Experimental
 
-###Distributions:
+### Distributions:
 
 Day 7: Physical
 
@@ -45,7 +45,7 @@ Day 11: Circular
 
 Day 12: Strips
 
-###Relationships:
+### Relationships:
 
 Day 13: Correlation
 
@@ -59,7 +59,7 @@ Day 17: Pop Culture
 
 Day 18: Connections
 
-###Timeseries:
+### Timeseries:
 
 Day 19: Global Change
 
@@ -73,7 +73,7 @@ Day 23: Tiles
 
 Day 24: Monochrome
 
-###Uncertainties:
+### Uncertainties:
 
 Day 25: Demographic
 
