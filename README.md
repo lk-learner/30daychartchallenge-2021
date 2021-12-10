@@ -15,8 +15,7 @@ Topics
 
 ![topics_ol_blank](https://user-images.githubusercontent.com/62923332/145532137-7edd23c8-ab10-412c-a37e-191bbea0ddaf.png)
 
-Contributions
-Collection of all contributions per day (shared on Twitter with the hashtag and/or mentioning @30DayChartChall account). For now just named images in a folder—hopefully going to clean it up once the challenge is over.
+
 
 Comparisons:
 
