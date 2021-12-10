@@ -4,6 +4,7 @@ Collection of my learnings for the first #30DayChartChallenge in April 2021.
 How to contribute?
 Anyone is welcome to contribute, no matter which data source or tool you use.
 If you share your contributions on Twitter, please use the hashtag #30DayChartChallenge and/or tag the @30DayChartCall account.
+https://github.com/z3tt/30DayChartChallenge_Collection2021
 
 Topics
 
