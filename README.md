@@ -87,75 +87,66 @@ Day 29: Deviations
 
 Day 30: 3D
 
-Further links:
+### Starter kit of possible data sources:
 
-Dedicated list of #Rstats contributions
-#30DayChartChallenge on Twitter
-Resources
-Tools
-Do not care what tool you use. Whatever works for you is fine! Programing, designing, crafting — pick what you prefer or try different things. An extensive list of tools can be found at Visualising Data.
+[Google dataset search]
 
-Data
-You are free to pick whatever data you want—we do not provide any particular dataset for each challenge. Either use the same dataset for all or different datasets each day, as you like! Search the internet, collect your own, visualize daily experiences or funny stats. Nevertheless, we would like to provide a starter kit of possible data sources:
+[data.world]
 
-Google dataset search
+[kaggle]
 
-data.world
+[Data Is Plural]
 
-kaggle
+[OurWorldInData]
 
-Data Is Plural
+[Eurostats]
 
-OurWorldInData
+[UN Stats]
 
-Eurostats
+[WHO]
 
-UN Stats
+[OECD Stats]
 
-WHO
+[Socioeconomic Data and Applications Center (NASA)]
 
-OECD Stats
+[MakeoverMonday]
 
-Socioeconomic Data and Applications Center (NASA)
+[TidyTuesday (search through old datasets here, here and here)]
 
-MakeoverMonday
+[IMDB datasets]
 
-TidyTuesday (search through old datasets here, here and here)
+[Free GIS data]
 
-IMDB datasets
+[WorldClim — maps, graphs, tables, and data of the global climate]
 
-Free GIS data
+[Rdatasets — over 1300 datasets originally distributed in R packages]
 
-WorldClim — maps, graphs, tables, and data of the global climate
+[List of R packages to import data]
 
-Rdatasets — over 1300 datasets originally distributed in R packages
-
-List of R packages to import data
-
-Chart Type Selection
+### Chart Type Selection
 
 There are many great selection helpers out there, guiding you through the many different boxes you can fit the endless number of (sub)chart types in. Here is a non-exhaustive list:
 
-Chart Suggestions—A Thought-Starter by Andrew Abela — an all-time classic (latest version)
+[Chart Suggestions—A Thought-Starter] by Andrew Abela — an all-time classic (latest version)
 
-Graphic Continuum by Jon Schwabish and Severino Ribecca — the main source for the five categories
+[Graphic Continuum] by Jon Schwabish and Severino Ribecca — the main source for the five categories
 
-Visual Vocabulary by the Financial Times Visual Journalism — chart choice helpers with lots of further links
+[Visual Vocabulary] by the Financial Times Visual Journalism — chart choice helpers with lots of further links
 
-interactive version
+[interactive version]
 
-static version
+[static version]
 
-From Data to Viz by Yan Holtz — interactive, with information and codes for each chart type
+[From Data to Viz] by Yan Holtz — interactive, with information and codes for each chart type
 
-R code collection
+[R code collection]
 
-Python code collection
+[Python code collection]
 
-D3js code collection
+[D3js code collection]
 
-DataVizProject by ferdio — interactive with lots of examples
+[DataVizProject] by ferdio — interactive with lots of examples
 
-Visualization Universe by Adioma and Google News Lab
+[Visualization Universe] by Adioma and Google News Lab
 
-How to Choose the Right Chart Type — another, very compact, decision tree to help you
+[How to Choose the Right Chart Type] — another, very compact, decision tree to help you
