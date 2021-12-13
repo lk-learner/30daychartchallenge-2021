@@ -1,4 +1,4 @@
-# 30daychartchallenge
+# 30daychartchallenge-2021
 Collection of my learnings for the first #30DayChartChallenge in April 2021.
 
 How to contribute?
