@@ -90,23 +90,23 @@ Day 30: 3D
 
 ### Starter kit of possible data sources:
 
-[Google dataset search]
+[Google dataset search](https://datasetsearch.research.google.com/)
 
-[data.world]
+[data.world](https://data.world/)
 
-[kaggle]
+[kaggle](https://www.kaggle.com/datasets)
 
-[Data Is Plural]
+[Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
-[OurWorldInData]
+[OurWorldInData](https://ourworldindata.org/)
 
-[Eurostats]
+[Eurostats](https://ec.europa.eu/eurostat)
 
-[UN Stats]
+[UN Stats](https://unstats.un.org/home/)
 
-[WHO]
+[WHO](https://www.who.int/data/collections)
 
-[OECD Stats]
+[OECD Stats](https://stats.oecd.org/)
 
 [Socioeconomic Data and Applications Center (NASA)]
 
