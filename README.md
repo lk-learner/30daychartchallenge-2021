@@ -128,7 +128,7 @@ Day 30: 3D
 
 There are many great selection helpers out there, guiding you through the many different boxes you can fit the endless number of (sub)chart types in. Here is a non-exhaustive list:
 
-[Chart Suggestions—A Thought-Starter] by Andrew Abela — an all-time classic (latest version)
+[Chart Suggestions—A Thought-Starter] by Andrew Abela — an all-time classic (latest version)(http://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf)
 
 [Graphic Continuum] by Jon Schwabish and Severino Ribecca — the main source for the five categories
 
