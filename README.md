@@ -130,24 +130,24 @@ There are many great selection helpers out there, guiding you through the many d
 
 [Chart Suggestions—A Thought-Starter](http://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf) by Andrew Abela — an all-time classic (latest version)
 
-[Graphic Continuum] by Jon Schwabish and Severino Ribecca — the main source for the five categories
+[Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish and Severino Ribecca — the main source for the five categories
 
-[Visual Vocabulary] by the Financial Times Visual Journalism — chart choice helpers with lots of further links
+[Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) by the Financial Times Visual Journalism — chart choice helpers with lots of further links
 
-[interactive version]
+[interactive version](https://www.ft.com/chart-doctor)
 
-[static version]
+[static version](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
 
-[From Data to Viz] by Yan Holtz — interactive, with information and codes for each chart type
+[From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz — interactive, with information and codes for each chart type
 
-[R code collection]
+[R code collection](https://www.r-graph-gallery.com/)
 
-[Python code collection]
+[Python code collection](https://www.python-graph-gallery.com/)
 
-[D3js code collection]
+[D3js code collection](https://www.d3-graph-gallery.com/)
 
-[DataVizProject] by ferdio — interactive with lots of examples
+[DataVizProject](https://datavizproject.com/) by ferdio — interactive with lots of examples
 
-[Visualization Universe] by Adioma and Google News Lab
+[Visualization Universe](http://visualizationuniverse.com/) by Adioma and Google News Lab
 
-[How to Choose the Right Chart Type] — another, very compact, decision tree to help you
+[How to Choose the Right Chart Type](https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/) — another, very compact, decision tree to help you
