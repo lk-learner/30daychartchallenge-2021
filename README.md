@@ -134,17 +134,17 @@ There are many great selection helpers out there, guiding you through the many d
 
 * [Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) by the Financial Times Visual Journalism — chart choice helpers with lots of further links
 
-** [interactive version](https://www.ft.com/chart-doctor)
-
-** [static version](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
+  * [interactive version](https://www.ft.com/chart-doctor)
+  
+  * [static version](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
 
 * [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz — interactive, with information and codes for each chart type
 
-* [R code collection](https://www.r-graph-gallery.com/)
+  * [R code collection](https://www.r-graph-gallery.com/)
 
-* [Python code collection](https://www.python-graph-gallery.com/)
+  * [Python code collection](https://www.python-graph-gallery.com/)
 
-* [D3js code collection](https://www.d3-graph-gallery.com/)
+  * [D3js code collection](https://www.d3-graph-gallery.com/)
 
 * [DataVizProject](https://datavizproject.com/) by ferdio — interactive with lots of examples
 
