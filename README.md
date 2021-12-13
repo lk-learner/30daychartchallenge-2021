@@ -108,21 +108,21 @@ Day 30: 3D
 
 [OECD Stats](https://stats.oecd.org/)
 
-[Socioeconomic Data and Applications Center (NASA)]
+[Socioeconomic Data and Applications Center (NASA)](https://sedac.ciesin.columbia.edu/)
 
-[MakeoverMonday]
+[MakeoverMonday](https://www.makeovermonday.co.uk/data/)
 
-[TidyTuesday (search through old datasets here, here and here)]
+[TidyTuesday (search through old datasets here, here and here)](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021)
 
-[IMDB datasets]
+[IMDB datasets](https://www.imdb.com/interfaces/)
 
-[Free GIS data]
+[Free GIS data](http://freegisdata.rtwilson.com/)
 
-[WorldClim — maps, graphs, tables, and data of the global climate]
+[WorldClim — maps, graphs, tables, and data of the global climate](https://worldclim.org/)
 
-[Rdatasets — over 1300 datasets originally distributed in R packages]
+[Rdatasets — over 1300 datasets originally distributed in R packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
-[List of R packages to import data]
+[List of R packages to import data](https://www.computerworld.com/article/3109890/these-r-packages-import-sports-weather-stock-data-and-more.html)
 
 ### Chart Type Selection
 
