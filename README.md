@@ -92,62 +92,62 @@ Day 30: 3D
 
 * [Google dataset search](https://datasetsearch.research.google.com/)
 
-[data.world](https://data.world/)
+* [data.world](https://data.world/)
 
-[kaggle](https://www.kaggle.com/datasets)
+* [kaggle](https://www.kaggle.com/datasets)
 
-[Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+* [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 
-[OurWorldInData](https://ourworldindata.org/)
+* [OurWorldInData](https://ourworldindata.org/)
 
-[Eurostats](https://ec.europa.eu/eurostat)
+* [Eurostats](https://ec.europa.eu/eurostat)
 
-[UN Stats](https://unstats.un.org/home/)
+* [UN Stats](https://unstats.un.org/home/)
 
-[WHO](https://www.who.int/data/collections)
+* [WHO](https://www.who.int/data/collections)
 
-[OECD Stats](https://stats.oecd.org/)
+* [OECD Stats](https://stats.oecd.org/)
 
-[Socioeconomic Data and Applications Center (NASA)](https://sedac.ciesin.columbia.edu/)
+* [Socioeconomic Data and Applications Center (NASA)](https://sedac.ciesin.columbia.edu/)
 
-[MakeoverMonday](https://www.makeovermonday.co.uk/data/)
+* [MakeoverMonday](https://www.makeovermonday.co.uk/data/)
 
-[TidyTuesday (search through old datasets here, here and here)](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021)
+* [TidyTuesday (search through old datasets here, here and here)](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021)
 
-[IMDB datasets](https://www.imdb.com/interfaces/)
+* [IMDB datasets](https://www.imdb.com/interfaces/)
 
-[Free GIS data](http://freegisdata.rtwilson.com/)
+* [Free GIS data](http://freegisdata.rtwilson.com/)
 
-[WorldClim — maps, graphs, tables, and data of the global climate](https://worldclim.org/)
+* [WorldClim — maps, graphs, tables, and data of the global climate](https://worldclim.org/)
 
-[Rdatasets — over 1300 datasets originally distributed in R packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+* [Rdatasets — over 1300 datasets originally distributed in R packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
-[List of R packages to import data](https://www.computerworld.com/article/3109890/these-r-packages-import-sports-weather-stock-data-and-more.html)
+* [List of R packages to import data](https://www.computerworld.com/article/3109890/these-r-packages-import-sports-weather-stock-data-and-more.html)
 
 ### Chart Type Selection
 
 There are many great selection helpers out there, guiding you through the many different boxes you can fit the endless number of (sub)chart types in. Here is a non-exhaustive list:
 
-[Chart Suggestions—A Thought-Starter](http://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf) by Andrew Abela — an all-time classic (latest version)
+* [Chart Suggestions—A Thought-Starter](http://extremepresentation.com/wp-content/uploads/choosing-a-good-chart-09-1.pdf) by Andrew Abela — an all-time classic (latest version)
 
-[Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish and Severino Ribecca — the main source for the five categories
+* [Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish and Severino Ribecca — the main source for the five categories
 
-[Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) by the Financial Times Visual Journalism — chart choice helpers with lots of further links
+* [Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) by the Financial Times Visual Journalism — chart choice helpers with lots of further links
 
-[interactive version](https://www.ft.com/chart-doctor)
+** [interactive version](https://www.ft.com/chart-doctor)
 
-[static version](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
+** [static version](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
 
-[From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz — interactive, with information and codes for each chart type
+* [From Data to Viz](https://www.data-to-viz.com/) by Yan Holtz — interactive, with information and codes for each chart type
 
-[R code collection](https://www.r-graph-gallery.com/)
+* [R code collection](https://www.r-graph-gallery.com/)
 
-[Python code collection](https://www.python-graph-gallery.com/)
+* [Python code collection](https://www.python-graph-gallery.com/)
 
-[D3js code collection](https://www.d3-graph-gallery.com/)
+* [D3js code collection](https://www.d3-graph-gallery.com/)
 
-[DataVizProject](https://datavizproject.com/) by ferdio — interactive with lots of examples
+* [DataVizProject](https://datavizproject.com/) by ferdio — interactive with lots of examples
 
-[Visualization Universe](http://visualizationuniverse.com/) by Adioma and Google News Lab
+* [Visualization Universe](http://visualizationuniverse.com/) by Adioma and Google News Lab
 
-[How to Choose the Right Chart Type](https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/) — another, very compact, decision tree to help you
+* [How to Choose the Right Chart Type](https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/) — another, very compact, decision tree to help you
