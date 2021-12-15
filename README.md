@@ -22,7 +22,7 @@ Topics
 
 [Day 1: Part-to-Whole](https://github.com/lk-learner/30daychartchallenge-2021/blob/main/30daychartchallenge_Day-1.png)
 
-Day 2: Pictorgram
+[Day 2: Pictorgram](https://github.com/lk-learner/30daychartchallenge-2021/blob/main/30daychartchallenge_Day-2.png)
 
 Day 3: Historical
 
