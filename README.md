@@ -6,13 +6,13 @@ Anyone is welcome to contribute, no matter which data source or tool you use.
 If you share your contributions on Twitter, please use the hashtag #30DayChartChallenge and/or tag the @30DayChartCall account.
 https://github.com/z3tt/30DayChartChallenge_Collection2021
 
-Topics
+Themes
 
 ![banner](https://user-images.githubusercontent.com/62923332/145532114-fe5cba9e-00b9-4b85-a7b4-2ae828a990e3.png)
 
 
 
-→ List of Topics
+→ List of Topics for each Theme
 
 ![topics_ol_blank](https://user-images.githubusercontent.com/62923332/145532137-7edd23c8-ab10-412c-a37e-191bbea0ddaf.png)
 
