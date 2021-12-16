@@ -26,7 +26,7 @@ Themes
 
 [Day 3: Historical](https://github.com/lk-learner/30daychartchallenge-2021/blob/main/30daychartchallenge_Day-3.png)
 
-Day 4: Magical
+[Day 4: Magical](https://github.com/lk-learner/30daychartchallenge-2021/blob/main/30daychartchallenge_Day-4.png)
 
 Day 5: Slope
 
