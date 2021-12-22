@@ -30,7 +30,7 @@ Themes
 
 [Day 5: Slope](https://github.com/lk-learner/30daychartchallenge-2021/blob/main/30daychartchallenge_Day-5.png)
 
-Day 6: Experimental
+[Day 6: Experimental](https://github.com/lk-learner/30daychartchallenge-2021/blob/main/30daychartchallenge_Day-6.png)
 
 ### Distributions:
 
