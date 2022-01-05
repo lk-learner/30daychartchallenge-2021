@@ -38,7 +38,7 @@ Day 7: Physical
 
 [Day 8: Animals](https://github.com/lk-learner/30daychartchallenge-2021/blob/main/30daychartchallenge_Day-8.png)
 
-Day 9: Statistics
+[Day 9: Statistics](https://github.com/lk-learner/30daychartchallenge-2021/blob/main/30daychartchallenge_Day-9.png)
 
 Day 10: Abstract
 
