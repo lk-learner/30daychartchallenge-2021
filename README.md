@@ -36,7 +36,7 @@ Themes
 
 Day 7: Physical
 
-Day 8: Animals
+[Day 8: Animals](https://github.com/lk-learner/30daychartchallenge-2021/commit/a87cf03502776f42d9bffe87238f0eff05d83f0b)
 
 Day 9: Statistics
 
